@@ -8,7 +8,7 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import org.d3if3026.allunit.ui.theme.AllUnitTheme
-import org.d3if3026.allunit.unit2.pathway3.TipTimeLayout
+import org.d3if3026.allunit.unit2.pathway3.ArtSpace
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -20,7 +20,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    TipTimeLayout()
+                    ArtSpace()
                 }
             }
         }

@@ -2,10 +2,10 @@
     <string name="app_name">All Unit</string>
 
     <!--Unit 2 Pathway 2-->
-    <string name="lab1">Lab1</string>
+    <!-- Lab 1  -->
     <string name="roll">Roll</string>
 
-    <string name="lab2">Lab2</string>
+    <!--  Lab 2  -->
     <string name="lemon_select">Tap the lemon tree to select a lemon</string>
     <string name="lemon_squeeze">Keep tapping the lemon to squeeze it</string>
     <string name="lemon_drink">Tap the lemonade to drink it</string>
@@ -17,10 +17,31 @@
     <!--  end   -->
 
     <!-- Unit 2 Pathway 3  -->
+    <!--  Lab 1 & 2   -->
     <string name="calculate_tip">Calculate Tip</string>
     <string name="bill_amount">Bill Amount</string>
     <string name="how_was_the_service">Tip Percentage</string>
     <string name="round_up_tip">Round up tip?</string>
     <string name="tip_amount">Tip Amount: %s</string>
+
+    <!--  Lab 3 ArtSpace  -->
+    <string name="Vertumnus_image">Painting Vertumnus By Giuseppe Arcimboldo</string>
+    <string name="Vertumnus_title">Vertumnus</string>
+    <string name="Vertumnus_artist">Giuseppe Arcimboldo</string>
+    <string name="Vertumnus_year">1590</string>
+
+    <string name="MonaLisa_image">Painting MonaLisa By Leonardo Da Vinci</string>
+    <string name="MonaLisa_title">MonaLisa</string>
+    <string name="MonaLisa_artist">Leonardo Da Vinci</string>
+    <string name="MonaLisa_year">1503 – 1506</string>
+
+    <string name="The_Milkmaid_image">Painting The Milkmaid By Johannes Vermeer</string>
+    <string name="The_Milkmaid_title">The Milkmaid</string>
+    <string name="The_Milkmaid_artist">Johannes Vermeer</string>
+    <string name="The_Milkmaid_year">1658</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <!--  end   -->
 
 </resources>
